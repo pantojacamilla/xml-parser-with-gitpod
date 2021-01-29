@@ -1,0 +1,25 @@
+{
+  "name": "xml-parser-with-gitpod",
+  "version": "1.0.0",
+  "description": "Xml parser built with gitpod",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantojacamilla/xml-parser-with-gitpod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pantojacamilla/xml-parser-with-gitpod/issues"
+  },
+  "homepage": "https://github.com/pantojacamilla/xml-parser-with-gitpod#readme"
+}
