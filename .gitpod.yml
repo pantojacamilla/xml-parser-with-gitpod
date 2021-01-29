@@ -1,0 +1,3 @@
+tasks:
+  - init: start xml-parser
+    command: npm xml-parser
