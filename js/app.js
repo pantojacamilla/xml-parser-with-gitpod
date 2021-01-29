@@ -1,8 +1,7 @@
-// const relatorio = document.getElementById('relatorio');
+const tableRelatorio = document.getElementById('relatorio');
 
 document.getElementById('inputFile').addEventListener('change', function selectedFileChanged() {
   const parser = new DOMParser();
-  const tableRelatorio = document.getElementById('relatorio');
 
   if (this.files.length === 0) {
     console.log('Nenhum arquivo selecionado!!!!');
