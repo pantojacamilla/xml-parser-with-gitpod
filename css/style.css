@@ -20,3 +20,7 @@
   background-color: rgb(83, 125, 172);
   color: white;
 }
+
+#inputFile {
+  margin-bottom: 10px;
+}
